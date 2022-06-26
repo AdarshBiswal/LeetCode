@@ -6,7 +6,7 @@ Each package contains a Solution.java file that implements the logic, and a Read
 
 Solved Questions :
 
-20, 22, 559, 812, 914, 1304,1432, 1448, 1827
+20, 22, 559, 812, 914, 1304,1432, 1448, 1827,217
 
 
 
